@@ -108,7 +108,7 @@ const Hero = () =>{
                 <MeshDistortMaterial color="#7a00d7" attach="material" distort={0.5} speed={2}/>
                 </Sphere>
               </Canvas>
-              <Img src='../public/img/profile-pic.png'/>
+              <Img src='/public/img/profile-pic.png'/>
             </Right>
           </Container>
       </Section>

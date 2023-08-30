@@ -13,7 +13,8 @@ const Container = styled.div`
   overflow-y: auto;
   scrollbar-width:none;
   color: white;
-  background: url("/public/img/Artboard.png");
+  background-color: #04000b;
+
   background-size: cover;
   background-repeat: no-repeat;
   &::-webkit-scrollbar{
